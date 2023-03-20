@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alal Uddin",
+      "age":20,
+      "email": "alalu75@gmail.com",
+      "password": "alal123"
+      
+    },
+    {
+      "id": 2,
+      "name": "Chandra Shikkar",
+      "age":30,
+      "email": "chandra@gmail.com",
+      "password": "chandra12"
+    },
+     {
+      "id": 3,
+      "name": "Ravi Ranjan Ram",
+      "email": "ravi@gmail.com",
+      "password": "ravi12"
+    }
+  ]
+
+ 
+}
