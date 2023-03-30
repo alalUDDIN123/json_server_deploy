@@ -247,5 +247,47 @@
       "IMDB_Rating": 3,
       "ticket": 200
     }
+  ],
+  "tracker": [
+    {
+      "type": "income",
+      "category": "Salary",
+      "amount": "131",
+      "date": "2023-03-09",
+      "username": "Alal Uddin",
+      "id": 1
+    },
+    {
+      "type": "income",
+      "category": "Salary",
+      "amount": "1334",
+      "date": "2023-03-09",
+      "username": "Alal Uddin",
+      "id": 2
+    },
+    {
+      "type": "expense",
+      "category": "Bills",
+      "amount": "545",
+      "date": "2023-03-10",
+      "username": "Chandra Shikkar",
+      "id": 4
+    },
+    {
+      "type": "income",
+      "category": "Gifts",
+      "amount": "456",
+      "date": "2023-03-16",
+      "username": "Alal Uddin",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "category": "Other",
+      "amount": "132",
+      "date": "2023-03-16",
+      "username": "Alal Uddin",
+      "id": 7
+    }
   ]
 }
