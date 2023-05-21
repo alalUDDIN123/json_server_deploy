@@ -1,296 +1,91 @@
 {
-  "users": [
+  "registeredUsers": [
     {
       "id": 1,
-      "username": "Alal Uddin",
-      "email": "alalu75@gmail.com",
-      "password": "alal123"
+      "name": "Alal Uddin",
+      "email": "a@gmail.com",
+      "password": "al123",
+      "role_type": "seller"
     },
     {
-      "id": 2,
-      "username": "Chandra Shikkar",
-      "email": "chandra@gmail.com",
-      "password": "chandra12"
-    },
-    {
-      "email": "ritish@gmail.com",
-      "password": "ritish123",
-      "username": "Ritish",
-      "id": 3
-    }
-  ],
-  "recipes": [
-    {
-      "id": 1,
-      "username": "Alal Uddin",
-      "title": "Hazelnut Brownies",
-      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Starter",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 2,
-      "username": "Alal Uddin",
-      "title": "Breakfast recipes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhqV7gsGTQ6K62gRiPUl_hHWJv71zgFEXzQ&usqp=CAU",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Starter",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 3,
-      "username": "Alal Uddin",
-      "title": "Breakfast recipes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07oLsIIvtuzn6M2L-3fC82N_--QlCKw33IA&usqp=CAU",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Starter",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 4,
-      "username": "Chandra Shikkar",
-      "title": "Lunch recipes",
-      "image": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Main Course",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 5,
-      "username": "Chandra Shikkar",
-      "title": "Lunch recipes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAeH8FfY4bSJmfLLij62OQZmDFIPi1SoiLQ&usqp=CAU",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Main Course",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 6,
-      "username": "Chandra Shikkar",
-      "title": "Main-course recipes",
-      "image": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Main Course",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 7,
-      "username": "Chandra Shikkar",
-      "title": "Main-course recipes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAeH8FfY4bSJmfLLij62OQZmDFIPi1SoiLQ&usqp=CAU",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Dessert",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 8,
-      "username": "Alal Uddin",
-      "title": "Baked-goods recipes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4uIImt3gClMhM78O9sgL_ABlALaU2L34Rg&usqp=CAU",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Dessert",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "id": 9,
-      "username": "Alal Uddin",
-      "title": "Baked-goods recipes",
-      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Dessert",
-      "ingredients": [
-        "Hazelnut",
-        "Dark chocolate",
-        "Flour",
-        "Eggs"
-      ],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    },
-    {
-      "username": "Chandra Shikkar",
-      "title": "sdad",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4uIImt3gClMhM78O9sgL_ABlALaU2L34Rg&usqp=CAU",
-      "description": "Description 7",
-      "category": "main-course",
-      "ingredients": "Hazelnut",
-      "instructions": "safdsf",
-      "id": 10
-    }
-  ],
-  "movies": [
-    {
-      "id": 2,
-      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title": "I Am Legend",
-      "director": "Francis Lawrence",
-      "year": 2007,
-      "genre": "Horror",
-      "IMDB_Rating": 4.5,
-      "ticket": 200
-    },
-    {
-      "id": 3,
-      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "director": "Sam Raimi",
-      "year": 2022,
-      "genre": "Action",
-      "IMDB_Rating": 3.7,
-      "ticket": 200
-    },
-    {
-      "id": 5,
-      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "director": "Sam Raimi",
-      "year": 2022,
-      "genre": "Action",
-      "IMDB_Rating": 4,
-      "ticket": 200
-    },
-    {
-      "id": 6,
-      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title": "I Am Legend",
-      "director": "Francis Lawrence",
-      "year": 2007,
-      "genre": "Comedy",
-      "IMDB_Rating": 3.5,
-      "ticket": 200
-    },
-    {
-      "id": 7,
-      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "director": "Sam Raimi",
-      "year": 2022,
-      "genre": "Action",
-      "IMDB_Rating": 5,
-      "ticket": 200
-    },
-    {
-      "id": 8,
-      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title": "I Am Legend",
-      "director": "Francis Lawrence",
-      "year": 2007,
-      "genre": "Comedy",
-      "IMDB_Rating": 7.2,
-      "ticket": 200
-    },
-    {
-      "id": 9,
-      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "director": "Sam Raimi",
-      "year": 2022,
-      "genre": "Romance",
-      "IMDB_Rating": 4,
-      "ticket": 200
-    },
-    {
-      "id": 10,
-      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title": "I Am Legend",
-      "director": "Francis Lawrence",
-      "year": 2007,
-      "genre": "Romance",
-      "IMDB_Rating": 3,
-      "ticket": 200
-    }
-  ],
-  "tracker": [
-    {
-      "type": "income",
-      "category": "Salary",
-      "amount": "131",
-      "date": "2023-03-09",
-      "username": "Alal Uddin",
-      "id": 1
-    },
-    {
-      "type": "income",
-      "category": "Salary",
-      "amount": "1334",
-      "date": "2023-03-09",
-      "username": "Alal Uddin",
+      "name": "Ravi Ranjan",
+      "email": "ravi@gmail.com",
+      "password": "ravi123",
+      "role_type": "user",
       "id": 2
     },
     {
-      "type": "expense",
-      "category": "Bills",
-      "amount": "545",
-      "date": "2023-03-10",
-      "username": "Chandra Shikkar",
+      "name": "Khairul",
+      "email": "k@gmail.com",
+      "password": "kh123",
+      "role_type": "user",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 13 updated",
+      "price": " 60200",
+      "color": "black",
+      "category": "Electronics",
+      "description": "The iPhone is a popular smartphone known for its sleek design and advanced features. It offers a powerful processor, high-resolution display, impressive camera capabilities, and seamless integration with the iOS ecosystem, providing users with a premium mobile experience.",
+      "image": "https://i.pinimg.com/564x/d3/cc/97/d3cc97ef0949ba3ff2b33a1e67ee953b.jpg",
+      "id": 1
+    },
+    {
+      "name": "Lenovo IdeaPad",
+      "price": "45285",
+      "color": "gray",
+      "category": "Electronics",
+      "description": "Lenovo is a renowned technology brand offering a wide range of devices. From powerful laptops to versatile tablets, Lenovo products combine reliability and innovation. With sleek designs, cutting-edge features, and excellent performance, Lenovo devices cater to various needs, empowering users in their digital pursuits.",
+      "image": "https://i.pinimg.com/564x/f2/c8/15/f2c815e1d23e70b6100d58564ccc6546.jpg",
+      "id": 2
+    },
+    {
+      "name": "Polycotton Shirt",
+      "price": "419",
+      "color": "red",
+      "category": "clothing",
+      "description": "This vibrant, printed polycotton shirt fabric offers endless possibilities for fashion enthusiasts. With its unstitched design, you can unleash your creativity and tailor it to your unique style, creating a standout shirt that reflects your individuality.",
+      "image": "https://i.pinimg.com/564x/e9/5e/26/e95e2664046ac6c7782d54cc92385399.jpg",
+      "id": 3
+    },
+    {
+      "name": "Men Striped",
+      "price": "Men Striped",
+      "color": "black",
+      "category": "clothing",
+      "description": "Men striped blue track pants are a comfortable and stylish option for everyday wear. They are made from a soft and breathable fabric that will keep you cool and comfortable all day long. The striped design adds a touch of style, and the relaxed fit makes them perfect for lounging around or running errands.",
+      "image": "https://i.pinimg.com/564x/f4/60/1e/f4601e111c425c35f5b2ae6830f29497.jpg",
       "id": 4
     },
     {
-      "type": "income",
-      "category": "Gifts",
-      "amount": "456",
-      "date": "2023-03-16",
-      "username": "Alal Uddin",
+      "name": " I phone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "The iPhone 14 is Apple's latest flagship smartphone, featuring a sleek design, advanced camera capabilities, powerful performance, and innovative technologies for an enhanced user experience.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 5
+    },
+    {
+      "name": "Men Casual Brown",
+      "price": "219",
+      "color": "blue",
+      "category": "accessories",
+      "description": "The Men Casual Brown Genuine Leather Money Clip is a stylish accessory made of authentic leather, designed to securely hold cash and cards with a casual and sophisticated appeal.",
+      "image": "https://i.pinimg.com/564x/19/1d/88/191d882598873cd64f269108644b983f.jpg",
       "id": 6
     },
     {
-      "type": "income",
-      "category": "Other",
-      "amount": "132",
-      "date": "2023-03-16",
-      "username": "Alal Uddin",
+      "name": "Lotus",
+      "price": "695",
+      "color": "gold",
+      "category": "ski care",
+      "description": "Lotus Professional Retemin Plant Retinol & Vitamin C Brightening Boost Night Cream",
+      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/b/3b741delotaa00000044_nv1.jpg",
       "id": 7
     }
   ],
-  "numbersGame": [
-   
-  ]
+  "cartData": []
 }
