@@ -8,18 +8,11 @@
       "role_type": "seller"
     },
     {
-      "name": "Ravi Ranjan",
-      "email": "ravi@gmail.com",
-      "password": "ravi123",
-      "role_type": "user",
-      "id": 2
-    },
-    {
-      "name": "Khairul",
-      "email": "k@gmail.com",
-      "password": "kh123",
-      "role_type": "user",
-      "id": 3
+      "id": 2,
+      "name": "Nrupul",
+      "email": "nrupul@gmail.com",
+      "password": "admin123",
+      "role_type": "seller"
     }
   ],
   "products": [
@@ -52,7 +45,7 @@
     },
     {
       "name": "Men Striped",
-      "price": "Men Striped",
+      "price": "500",
       "color": "black",
       "category": "clothing",
       "description": "Men striped blue track pants are a comfortable and stylish option for everyday wear. They are made from a soft and breathable fabric that will keep you cool and comfortable all day long. The striped design adds a touch of style, and the relaxed fit makes them perfect for lounging around or running errands.",
